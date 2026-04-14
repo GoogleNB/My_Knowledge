@@ -46,25 +46,23 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.12.7"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "73e9ce70f78d72d3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f8cacf9709ac0933",
+            "id": "31498ecd5f9ee49c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "心理学/荣格/未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,13 +205,23 @@
               "icon": "lucide-list",
               "title": "议题设置 的大纲"
             }
+          },
+          {
+            "id": "3f2d2b710d2ff246",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +231,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82cb3aa40f37ca89",
+  "active": "31498ecd5f9ee49c",
   "lastOpenFiles": [
+    "未命名.base",
+    "心理学/荣格/未命名.md",
+    "新建文本文档.txt",
     "My_Knowledge",
     "传播学/议题置换.md",
     "传播学/议题设置.md",
