@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": ".//asset",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
